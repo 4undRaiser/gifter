@@ -26,7 +26,6 @@ module gifter_contracts::gifter {
  }
 
 
-
  /// Giftcard object
  public struct GIFTCARD has key, store{
     id: UID,
@@ -34,7 +33,7 @@ module gifter_contracts::gifter {
     url: String,
     balance: Balance<SUI>,
     is_used: bool,
-    digits: u64,
+    digits: u64, /// will work on a hashing function or implement zk to hide this value to be accesible only to the owner of the object
     message: String,
     `for`: address,
  }
