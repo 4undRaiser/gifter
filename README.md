@@ -29,6 +29,11 @@ Gifter is a platform that enables anyone to create a giftcard for any products a
 2. Anyone can also mint/create a giftcard that can only be spent on a product or services if the owner accepts payment in crypto currencies and have made their payment address public.
 3. Users can spend their giftcard by passing in the giftcard random digits that was assign to it on creation. Thia will emit an event with the traansaction details which can be verified by the owner of the product/services.
 
+
+Possible advanced implementation will be available on the slide for judges to  see.
+
+Meanwhile, below are some platform UI.
+
 ![home p](https://github.com/4undRaiser/gifter/assets/87926451/6ecd5209-fe2f-480c-813d-40a5fd41c9e1)
 
 
@@ -39,7 +44,4 @@ Gifter is a platform that enables anyone to create a giftcard for any products a
 
 
 
-Possible advanced implementation will be available on the slide for judges to  see.
-
-Meanwhile, below are some platform UI.
 
