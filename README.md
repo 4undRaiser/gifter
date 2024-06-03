@@ -1,4 +1,7 @@
 # gifter
+![gifter (2)](https://github.com/4undRaiser/gifter/assets/87926451/88035c61-f1e8-40ab-ae9b-e544db3fc51b)
+
+
 
 ### The Booming Gift Card Industry 
 The gift card market is experiencing tremendous growth. In 2019, it was valued at a staggering $1.5 trillion globally, and it's projected to soar to $5.5 trillion by 2028. This surge is driven by several key factors:
